@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send({ hi: "there" });
+  res.send({ hi: "theresss" });
 });
 
 // Heroku injects port number as environment variable at runtime when deployed
