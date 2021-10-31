@@ -23,6 +23,7 @@
   "homepage": "https://github.com/jakecyg/Survey_App#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^6.0.12",
     "nodemon": "^2.0.14",
     "passport": "^0.5.0",
     "passport-google-oauth20": "^2.0.0"
