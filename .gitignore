@@ -107,4 +107,4 @@ dist
 node_modules
 
 # config keys
-keys.js
+dev.js
